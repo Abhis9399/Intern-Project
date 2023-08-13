@@ -11,7 +11,6 @@ const root = createRoot(container);
 root.render(
   <BrowserRouter>
     <App />
-    <App />
   </BrowserRouter>
 );
 
