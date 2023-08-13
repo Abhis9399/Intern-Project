@@ -1,0 +1,2666 @@
+@media only screen and (min-width: 1024px) {
+
+.bgChild,
+.bgItem {
+  position: absolute;
+  width: 1440px;
+}
+.bgChild {
+  top: 0;
+  left: 297px;
+  background: linear-gradient(
+    90deg,
+    #75cfff 22.19%,
+    rgba(117, 207, 255, 0) 68.54%
+  );
+  height: 855px;
+}
+.bgItem {
+  top: 594px;
+  left: 298px;
+  height: 3075px;
+}
+.notinline,
+.notinline1,
+.notinline2 {
+  position: absolute;
+  left: 320px;
+  line-height: 222px;
+  font-weight: 600;
+}
+.notinline {
+  top: 2048px;
+  -webkit-text-stroke: 1px rgba(0, 166, 255, 0.52);
+}
+.notinline1,
+.notinline2 {
+  top: 2249px;
+}
+.notinline2 {
+  top: 2471px;
+  -webkit-text-stroke: 1px rgba(0, 166, 255, 0.52);
+}
+.bgInner,
+.rectangleIcon {
+  position: absolute;
+  top: 2321.99px;
+  left: 298px;
+  width: 2787.5px;
+  height: 1694px;
+}
+.rectangleIcon {
+  top: 1438.99px;
+  width: 2078px;
+  height: 1604px;
+}
+.expressiveYoungWomanPosingIcon {
+  position: absolute;
+  top: 2120px;
+  left: 876px;
+  width: 874px;
+  height: 707px;
+  object-fit: cover;
+}
+.bg,
+.footerChild {
+  position: absolute;
+  top: 0;
+}
+.bg {
+  left: -298px;
+  width: 2787.5px;
+  height: 3669px;
+  font-size: 250px;
+  color: rgba(132, 207, 237, 0.25);
+}
+.footerChild {
+  left: 0;
+  background-color: #1f1f1f;
+  width: 1540px;
+  height: 811px;
+}
+.nilLogoTransparent11 {
+  position: absolute;
+  top: 81px;
+  left: 26px;
+  width: 137px;
+  height: 137px;
+  object-fit: cover;
+}
+.bookDoctorAppointments {
+  position: absolute;
+  top: 250px;
+  left: 26px;
+  line-height: 30px;
+  display: inline-block;
+  width: 470px;
+}
+.appointments {
+  position: absolute;
+  top: 281px;
+  left: 651px;
+  line-height: 30px;
+}
+.footerInner,
+.footerItem {
+  position: absolute;
+  top: 471px;
+  height: 88px;
+}
+.footerItem {
+  left: 25px;
+  border-radius: 14px;
+  background-color: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(25px);
+  width: 471px;
+}
+
+.footerFeedback{
+  position: absolute;
+  top: 0px;
+  left: 125px;
+  height: 82px;
+  width: 218px;
+  background-color: rgb(94, 93, 93);
+  backdrop-filter: blur(25px);
+  font-size: 26px;
+  font-family: 600;
+  line-height: 35px;
+  color: white;
+}
+.footerInner {
+  left: 379px;
+  width: 117px;
+}
+
+
+.callIcon {
+  top: 495px;
+  left: 418px;
+  width: 39px;
+  height: 39px;
+}
+.callIcon,
+.div,
+.lineDiv {
+  position: absolute;
+}
+.lineDiv {
+  top: 482.5px;
+  left: 142.5px;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+  width: 1px;
+  height: 65px;
+}
+.div {
+  top: 501px;
+  left: 60px;
+  font-size: 24px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.labTests,
+.services {
+  position: absolute;
+  left: 651px;
+}
+.services {
+  top: 182px;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.labTests {
+  top: 343px;
+  line-height: 30px;
+}
+.aZMedicine,
+.doctorSupport,
+.generalInfo,
+.legal {
+  position: absolute;
+  top: 405px;
+  left: 651px;
+  line-height: 30px;
+}
+.doctorSupport,
+.generalInfo,
+.legal {
+  top: 467px;
+}
+.generalInfo,
+.legal {
+  top: 281px;
+  left: 886px;
+}
+.legal {
+  top: 182px;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.privacyPolicy,
+.termsOfServices {
+  position: absolute;
+  top: 343px;
+  left: 886px;
+  line-height: 30px;
+}
+.termsOfServices {
+  top: 405px;
+}
+.consultation,
+.howItWorks,
+.supportnotinlinecom,
+.talkToUs {
+  position: absolute;
+  top: 467px;
+  left: 886px;
+  line-height: 30px;
+}
+.howItWorks,
+.supportnotinlinecom,
+.talkToUs {
+  top: 529px;
+}
+.supportnotinlinecom,
+.talkToUs {
+  top: 281px;
+  left: 1121px;
+}
+.talkToUs {
+  top: 182px;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.allRightsReserved,
+.appointmentnotinlinecom,
+.div1,
+.div2 {
+  position: absolute;
+  top: 343px;
+  left: 1121px;
+  line-height: 30px;
+}
+.allRightsReserved,
+.div1,
+.div2 {
+  top: 405px;
+}
+.allRightsReserved,
+.div2 {
+  top: 467px;
+}
+.allRightsReserved {
+  top: 662px;
+  left: 70px;
+  font-weight: 500;
+}
+.component4Child {
+  position: absolute;
+  height: 90%;
+  width: 100%;
+  top: 3.33%;
+  right: 0;
+  bottom: 6.67%;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+}
+.c {
+  position: absolute;
+  top: 0;
+  left: 22.22%;
+  line-height: 30px;
+  font-weight: 500;
+}
+.component4,
+.footerChild1 {
+  position: absolute;
+  top: 662px;
+  left: 24px;
+  width: 27px;
+  height: 30px;
+}
+.footerChild1 {
+  top: 598.5px;
+  left: 25.5px;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+  width: 1392px;
+  height: 1px;
+}
+.footer {
+  position: absolute;
+  top: 2825px;
+  left: 0;
+  width: 1440px;
+  height: 814px;
+}
+.component1Child,
+.component1Item {
+  position: absolute;
+  height: 53.82%;
+  width: 54.56%;
+  top: 2.86%;
+  bottom: 43.32%;
+  transform: rotate(45.01deg);
+  transform-origin: 0 0;
+}
+.component1Child {
+  right: 6.87%;
+  left: 38.57%;
+  border: 3px solid #008dd9;
+  box-sizing: border-box;
+}
+.component1Item {
+  right: -4.35%;
+  left: 49.79%;
+  background-color: #75cfff;
+}
+.mediumShotWomanLookingThroIcon {
+  position: absolute;
+  height: 76.2%;
+  width: 68.48%;
+  top: 2.88%;
+  right: 14.01%;
+  bottom: 20.92%;
+  left: 17.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component1Inner,
+.rectangleDiv {
+  position: absolute;
+  height: 25.54%;
+  width: 58.52%;
+  top: 58.62%;
+  right: -65.24%;
+  bottom: 15.85%;
+  left: 106.73%;
+  background-color: #fff;
+  transform: rotate(134.99deg);
+  transform-origin: 0 0;
+}
+.rectangleDiv {
+  height: 51.59%;
+  width: 24.09%;
+  top: 63.52%;
+  right: 75.91%;
+  bottom: -15.11%;
+  left: 0;
+  transform: rotate(-45.01deg);
+}
+.component1,
+.component7Child {
+  position: absolute;
+  top: 102px;
+  left: 89px;
+  width: 514px;
+  height: 521px;
+}
+.component7Child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 13px;
+  background-color: rgba(110, 110, 110, 0.22);
+  backdrop-filter: blur(25px);
+}
+.component7Item {
+  position: absolute;
+  height: 50.56%;
+  width: 27.11%;
+  top: 23.6%;
+  right: 62.65%;
+  bottom: 25.84%;
+  left: 10.24%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component7 {
+  position: absolute;
+  top: 152px;
+  left: 119px;
+  width: 166px;
+  height: 89px;
+}
+.complementaryReportConsultat {
+  position: absolute;
+  height: 37.78%;
+  width: 61.75%;
+  top: 31.11%;
+  left: 33.88%;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+}
+.component5Item {
+  position: absolute;
+  height: 48.89%;
+  width: 24.59%;
+  top: 24.44%;
+  right: 69.95%;
+  bottom: 26.67%;
+  left: 5.46%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component5,
+.component6Item {
+  position: absolute;
+  top: 261px;
+  left: 0;
+  width: 183px;
+  height: 90px;
+}
+.component6Item {
+  height: 50.56%;
+  width: 24.59%;
+  top: 22.47%;
+  right: 69.4%;
+  bottom: 26.97%;
+  left: 6.01%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component6 {
+  position: absolute;
+  top: 371px;
+  left: 111px;
+  width: 183px;
+  height: 89px;
+}
+.labTests1 {
+  color: #333;
+}
+.bestInClassContainer {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  font-size: 48px;
+  line-height: 70px;
+  font-weight: 600;
+  font-family: Montserrat;
+  color: #138ed1;
+}
+.heroTextImageChild {
+  position: absolute;
+  top: 69px;
+  left: 8px;
+  width: 316px;
+  height: 21px;
+}
+.accurateTimelyReports1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+}
+.accurateTimelyReports {
+  position: absolute;
+  top: 397px;
+  left: 174px;
+  width: 100px;
+  height: 35px;
+}
+.heroTextImage,
+.timelySampleCollection {
+  position: absolute;
+  top: 179px;
+  left: 191px;
+  width: 85px;
+  height: 32.12px;
+}
+.heroTextImage {
+  top: 113px;
+  left: 774px;
+  width: 603px;
+  height: 623px;
+  font-size: 12px;
+  color: #333;
+  font-family: Inter;
+}
+.fillInFormChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 34px;
+  background-color: #fff;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+  width: 470px;
+  height: 420px;
+}
+.fillInFormChild1,
+.fillInFormInner,
+.fillInFormItem {
+  position: absolute;
+  top: 81px;
+  left: 74px;
+  border-radius: 5px;
+  background-color: #e3e3e3;
+  width: 299px;
+  height: 47px;
+}
+.fillInFormChild1,
+.fillInFormInner {
+  top: 160px;
+}
+.fillInFormChild1 {
+  top: 239px;
+}
+.fullName,
+.location,
+.phoneNumber {
+  position: absolute;
+  top: 81px;
+  left: 74px;
+  border-radius: 5px;
+  background-color: #e3e3e3;
+  width: 299px;
+  height: 47px;
+  color: black;
+  font-size: 24px;
+  font-family: 500;
+  line-height: 35px;
+}
+.location,
+.phoneNumber {
+  top: 160px;
+}
+.location {
+  top: 238px;
+}
+.FullNameInput,
+.PhoneNumberInput,
+.LocationInput {
+  position: absolute;
+  width: 299px;
+  height: 47px;
+  left: 74px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 6px;
+  background: #E3E3E3;
+
+  
+}
+
+.FullNameInput {
+  top: 81px;
+}
+
+.PhoneNumberInput {
+  top: 160px;
+}
+
+.LocationInput {
+  top: 239px;
+}
+.personIcon {
+  position: absolute;
+  top: 82px;
+  left: 20px;
+  width: 46px;
+  height: 45.02px;
+}
+.callIcon1,
+.component2Icon,
+.distanceIcon {
+  position: absolute;
+  top: 160px;
+  left: 20px;
+  width: 46px;
+  height: 46px;
+}
+.component2Icon,
+.distanceIcon {
+  top: 239px;
+}
+.component2Icon {
+  top: 305px;
+  left: 36px;
+  width: 22px;
+  height: 22px;
+}
+.byContinuingYou {
+  font-weight: 500;
+}
+.tc {
+  font-weight: 600;
+}
+.byContinuingYouContainer {
+  position: absolute;
+  top: 302px;
+  left: 74px;
+  font-size: 11px;
+  line-height: 25px;
+  color: #2f2f2f;
+}
+.fillInFormChild2 {
+  position: absolute;
+  top: 343px;
+  left: 117px;
+  border-radius: 6px;
+  background-color: #138ed1;
+  width: 236px;
+  height: 42px;
+  border: none;
+}
+.fillInThe,
+.proceed {
+  position: absolute;
+  top: 352px;
+  left: 193px;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 500;
+  color: #fff;
+  
+}
+.proceed{
+  background-color: #138ed1;
+  border: none;
+  cursor: pointer;
+}
+.fillInThe {
+  top: 26px;
+  left: 74px;
+  line-height: 30px;
+  color: #2f2f2f;
+  display: inline-block;
+  width: 307px;
+}
+.fillInForm {
+  position: absolute;
+  top: 126px;
+  left: 122px;
+  width: 470px;
+  height: 420px;
+  font-size: 12px;
+  color: #6e6e6e;
+}
+.offerLineChild,
+.offerLineItem {
+  position: absolute;
+  top: 1px;
+  left: 414px;
+  border-radius: 34px;
+  background-color: #00a6ff;
+  width: 194px;
+  height: 68px;
+}
+.offerLineItem {
+  top: 0;
+  left: 0;
+  border-radius: 35px;
+  background-color: #00486c;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 470px;
+  height: 70px;
+}
+.getAFullContainer {
+  position: absolute;
+  top: 23px;
+  left: 36px;
+  line-height: 24px;
+}
+.currencyRupeeIcon {
+  position: absolute;
+  top: 26px;
+  left: 310px;
+  width: 18px;
+  height: 18px;
+}
+.div3 {
+  position: absolute;
+  top: 23px;
+  left: 328px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.offerLineInner {
+  position: absolute;
+  top: 35px;
+  left: 313px;
+  border-radius: 0.5px;
+  background-color: #fff;
+  width: 68px;
+  height: 1px;
+}
+.currencyRupeeIcon1 {
+  position: absolute;
+  top: 25px;
+  left: 386px;
+  width: 20px;
+  height: 20px;
+}
+.div4 {
+  top: 23px;
+  left: 404px;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.div4,
+.off,
+.offerLine {
+  position: absolute;
+}
+.off {
+  top: 24px;
+  left: 485px;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.offerLine {
+  top: 659px;
+  left: 122px;
+  width: 608px;
+  height: 70px;
+  font-size: 18px;
+  font-family: Inter;
+}
+.choose {
+  color: #008dd9;
+}
+.weWantYou,
+.whyChooseUsContainer {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 70px);
+  font-size: 48px;
+  line-height: 70px;
+  font-weight: 600;
+}
+.weWantYou {
+  top: 99px;
+  left: calc(50% - 248px);
+  font-size: 24px;
+  line-height: 40px;
+  font-weight: 500;
+  color: #6e6e6e;
+  text-align: center;
+  display: inline-block;
+  width: 729px;
+}
+.whyChooseUsChild {
+  position: absolute;
+  top: 69px;
+  left: 516px;
+  width: 211px;
+  height: 19px;
+}
+.whyChooseUsChild1,
+.whyChooseUsChild2,
+.whyChooseUsInner,
+.whyChooseUsItem {
+  position: absolute;
+  top: 243px;
+  left: 0;
+  border-radius: 33px;
+  background-color: #fff;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+  width: 373px;
+  height: 226px;
+}
+.whyChooseUsChild1,
+.whyChooseUsChild2,
+.whyChooseUsInner {
+  top: 577px;
+  height: 244px;
+}
+.whyChooseUsChild1,
+.whyChooseUsChild2 {
+  top: 301px;
+  left: 411px;
+  width: 377px;
+}
+.whyChooseUsChild2 {
+  top: 634px;
+}
+.ellipseIcon,
+.whyChooseUsChild3,
+.whyChooseUsChild4 {
+  position: absolute;
+  top: 243px;
+  left: 686px;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.whyChooseUsChild3,
+.whyChooseUsChild4 {
+  top: 517px;
+  left: 255px;
+}
+.whyChooseUsChild4 {
+  top: 574px;
+  left: 668px;
+}
+.nablAccreditedLabs {
+  position: absolute;
+  top: 261px;
+  left: 15px;
+  line-height: 35px;
+  font-weight: 600;
+  display: inline-block;
+  width: 258px;
+}
+.valueExperience {
+  top: 323px;
+  left: 426px;
+  display: inline-block;
+  width: 220px;
+}
+.timelyCollections,
+.transparency,
+.valueExperience {
+  position: absolute;
+  line-height: 40px;
+  font-weight: 600;
+}
+.timelyCollections {
+  top: 596px;
+  left: 38px;
+  display: inline-block;
+  width: 195px;
+}
+.transparency {
+  top: 654px;
+  left: 444px;
+  text-align: center;
+}
+.whyChooseUsChild5 {
+  position: absolute;
+  top: 183px;
+  left: 271px;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.enjoyHassleFree,
+.experienceSeamlessCare,
+.getAccurateAnd,
+.weCollectSamples {
+  position: absolute;
+  top: 349px;
+  left: 15px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 278px;
+}
+.enjoyHassleFree,
+.experienceSeamlessCare,
+.weCollectSamples {
+  top: 421px;
+  left: 426px;
+  width: 318px;
+}
+.enjoyHassleFree,
+.weCollectSamples {
+  top: 694px;
+  left: 38px;
+  line-height: 25px;
+  width: 259px;
+}
+.enjoyHassleFree {
+  top: 712px;
+  left: 444px;
+  width: 320px;
+}
+.whyChooseUs {
+  position: absolute;
+  top: 1873px;
+  left: calc(50% - 636px);
+  width: 962px;
+  height: 878px;
+  font-size: 28px;
+  color: #2f2f2f;
+}
+.headerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 83px;
+}
+.nilLogoTransparent111,
+.screenshot20230725165513RIcon {
+  position: absolute;
+  height: 100%;
+  width: 77.26%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 22.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.nilLogoTransparent111 {
+  width: 22.74%;
+  right: 77.26%;
+  left: 0;
+}
+.component10 {
+  position: absolute;
+  top: 10px;
+  left: 80px;
+  width: 277px;
+  height: 64px;
+}
+.healthConditions,
+.home,
+.labTests2,
+.medicines {
+  position: absolute;
+  top: 0;
+  line-height: 40px;
+  display: inline-block;
+  height: 40.49px;
+}
+.labTests2 {
+  left: calc(50% + 21.5px);
+  font-size: 20px;
+  font-weight: 600;
+  color: #138ed1;
+  width: 90px;
+}
+.healthConditions,
+.home,
+.medicines {
+  left: calc(50% - 211.5px);
+  width: 45px;
+}
+.healthConditions,
+.medicines {
+  left: calc(50% - 133.5px);
+  width: 133px;
+}
+.medicines {
+  top: 1.01px;
+  left: calc(50% + 133.5px);
+  width: 78px;
+}
+.labTestsParent {
+  position: absolute;
+  top: 24.29px;
+  left: calc(50% - 245px);
+  width: 423px;
+  height: 41.5px;
+  font-size: 16px;
+  color: #000;
+}
+.component11Child,
+.headerInner,
+.headerItem {
+  position: absolute;
+  top: 28px;
+  left: 945px;
+  border-radius: 4px;
+  background-color: #00486c;
+  width: 113px;
+  height: 35px;
+}
+.component11Child,
+.headerInner {
+  left: 1075px;
+}
+.component11Child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #333;
+}
+.playStore {
+  position: absolute;
+  height: 67.65%;
+  width: 53.04%;
+  top: 11.76%;
+  left: 31.3%;
+  line-height: 25px;
+  font-weight: 500;
+  display: inline-block;
+}
+.component11Item {
+  position: absolute;
+  height: 58.82%;
+  width: 18.26%;
+  top: 20.59%;
+  right: 74.78%;
+  bottom: 20.59%;
+  left: 6.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component11 {
+  position: absolute;
+  top: 28px;
+  left: 1298px;
+  width: 115px;
+  height: 35px;
+  font-size: 12px;
+  font-family: Montserrat;
+}
+.forHospitals,
+.forPatients {
+  position: absolute;
+  top: 33px;
+  left: 962px;
+  line-height: 25px;
+  display: inline-block;
+  width: 79px;
+  height: 26px;
+}
+.forHospitals {
+  left: 1089px;
+  width: 85px;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 83px;
+  font-size: 14px;
+  font-family: Inter;
+}
+.packages {
+  color: #138ed1;
+}
+.topPackages {
+  position: absolute;
+  top: 0;
+  left: 470px;
+  font-size: 48px;
+  line-height: 70px;
+  font-weight: 600;
+  text-align: left;
+  color: #000;
+}
+.groupChild {
+  position: absolute;
+  top: 69px;
+  left: 560px;
+  width: 264.01px;
+  height: 21px;
+}
+.exploreOurWide {
+  position: absolute;
+  top: 107px;
+  left: calc(50% - 513px);
+  font-size: 24px;
+  line-height: 40px;
+  font-weight: 500;
+  color: #6e6e6e;
+  display: inline-block;
+  width: 927px;
+}
+.groupChild1,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 225px;
+  left: 422px;
+  background-color: #fff;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.25);
+  width: 353px;
+  height: 339px;
+}
+.groupChild1,
+.groupInner {
+  left: 0;
+}
+.groupChild1 {
+  left: 843px;
+}
+.basicFullBody,
+.div5,
+.numberOfTests,
+.reviews {
+  position: absolute;
+  left: 20px;
+  line-height: 40px;
+  font-weight: 600;
+}
+.basicFullBody {
+  top: 266px;
+  font-size: 28px;
+  text-align: left;
+  display: inline-block;
+  width: 235px;
+}
+.div5,
+.numberOfTests,
+.reviews {
+  top: 393px;
+}
+.div5,
+.reviews {
+  top: 364px;
+  line-height: 20px;
+}
+.reviews {
+  left: 82px;
+  font-weight: 500;
+  color: #6e6e6e;
+}
+.advanceFullBody,
+.div6,
+.numberOfTests1,
+.reviews1 {
+  position: absolute;
+  line-height: 40px;
+  font-weight: 600;
+}
+.advanceFullBody {
+  top: 266px;
+  left: 447px;
+  font-size: 28px;
+  text-align: left;
+  display: inline-block;
+  width: 279px;
+}
+.div6,
+.numberOfTests1,
+.reviews1 {
+  top: 393px;
+  left: 446px;
+}
+.div6,
+.reviews1 {
+  top: 364px;
+  line-height: 20px;
+}
+.reviews1 {
+  left: 508px;
+  font-weight: 500;
+  color: #6e6e6e;
+}
+.liverFunctionTest {
+  position: absolute;
+  top: 266px;
+  left: 867px;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 285px;
+}
+.div7,
+.numberOfTests2,
+.reviews2 {
+  position: absolute;
+  top: 393px;
+  left: 868px;
+  line-height: 40px;
+  font-weight: 600;
+}
+.div7,
+.reviews2 {
+  top: 364px;
+  line-height: 20px;
+}
+.reviews2 {
+  left: 924px;
+  font-weight: 500;
+  color: #6e6e6e;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 325px;
+  left: 1152px;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  width: 142px;
+  height: 142px;
+}
+.arrowIcon {
+  position: absolute;
+  top: 385.95px;
+  left: 1200px;
+  width: 51.5px;
+  height: 22.09px;
+}
+.gradeIcon,
+.gradeIcon1,
+.gradeIcon2,
+.groupChild2 {
+  position: absolute;
+  top: 361px;
+  left: 54px;
+  width: 24px;
+  height: 24px;
+}
+.gradeIcon1,
+.gradeIcon2,
+.groupChild2 {
+  top: 362px;
+  left: 480px;
+}
+.gradeIcon2,
+.groupChild2 {
+  top: 361px;
+  left: 899px;
+}
+.groupChild2 {
+  top: 481px;
+  left: 44px;
+  border-radius: 6px;
+  background-color: #008dd9;
+  width: 264px;
+  height: 43px;
+}
+.bookNow {
+  position: absolute;
+  top: 493px;
+  left: 40px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.groupChild3 {
+  position: absolute;
+  top: 481px;
+  left: 466px;
+  border-radius: 6px;
+  background-color: #008dd9;
+  width: 264px;
+  height: 43px;
+}
+.bookNow1 {
+  position: absolute;
+  top: 493px;
+  left: 467px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.groupChild4 {
+  position: absolute;
+  top: 481px;
+  left: 884px;
+  border-radius: 6px;
+  background-color: #008dd9;
+  width: 264px;
+  height: 43px;
+}
+.bookNow2,
+.div8,
+.div9 {
+  line-height: 20px;
+  font-weight: 500;
+}
+.bookNow2 {
+  position: absolute;
+  top: 493px;
+  left: 885px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.div8,
+.div9 {
+  display: inline-block;
+}
+.div8 {
+  position: absolute;
+  top: 438px;
+  left: 85px;
+  color: #6e6e6e;
+  width: 65px;
+  height: 19px;
+}
+.div9 {
+  left: 186px;
+  width: 59px;
+  height: 18.95px;
+}
+.currencyRupeeIcon2,
+.div9,
+.mrp {
+  position: absolute;
+  top: 438px;
+}
+.currencyRupeeIcon2 {
+  left: 173px;
+  width: 16px;
+  height: 19px;
+}
+.mrp {
+  left: 20px;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #6e6e6e;
+}
+.groupChild5 {
+  position: absolute;
+  top: 447px;
+  left: 73px;
+  border-radius: 1px;
+  background-color: #6e6e6e;
+  width: 79px;
+  height: 2px;
+}
+.currencyRupeeIcon3 {
+  position: absolute;
+  top: 439px;
+  left: 73px;
+  width: 16px;
+  height: 18.01px;
+}
+.div10,
+.div11 {
+  position: absolute;
+  top: 439px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 67px;
+  height: 19px;
+}
+.div10 {
+  left: 511px;
+  color: #6e6e6e;
+}
+.div11 {
+  left: 612px;
+}
+.currencyRupeeIcon4,
+.currencyRupeeIcon5,
+.groupChild6 {
+  position: absolute;
+  top: 439px;
+  left: 498px;
+  width: 16px;
+  height: 19px;
+}
+.currencyRupeeIcon5,
+.groupChild6 {
+  left: 599px;
+}
+.groupChild6 {
+  top: 448px;
+  left: 498px;
+  border-radius: 1px;
+  background-color: #6e6e6e;
+  width: 79px;
+  height: 2px;
+}
+.div12,
+.div13,
+.mrp1 {
+  position: absolute;
+  top: 438px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.mrp1 {
+  left: 446px;
+  font-size: 18px;
+  color: #6e6e6e;
+}
+.div12,
+.div13 {
+  display: inline-block;
+}
+.div12 {
+  left: 936px;
+  color: #6e6e6e;
+  width: 61px;
+  height: 19px;
+}
+.div13 {
+  left: 1033px;
+  width: 59px;
+  height: 18.95px;
+}
+.currencyRupeeIcon6,
+.groupChild7 {
+  position: absolute;
+  top: 438px;
+  left: 923px;
+  width: 16px;
+  height: 19px;
+}
+.groupChild7 {
+  top: 447px;
+  left: 920px;
+  border-radius: 1px;
+  background-color: #6e6e6e;
+  width: 79px;
+  height: 2px;
+}
+.currencyRupeeIcon7,
+.mrp2 {
+  position: absolute;
+  top: 438px;
+}
+.currencyRupeeIcon7 {
+  left: 1020px;
+  width: 16px;
+  height: 19px;
+}
+.mrp2 {
+  left: 868px;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #6e6e6e;
+}
+.topPackagesParent {
+  position: absolute;
+  top: 1241px;
+  left: 122px;
+  width: 1294px;
+  height: 564px;
+  text-align: center;
+  color: #2f2f2f;
+}
+.weKeepExpandingContainer {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 255.5px);
+  line-height: 70px;
+  font-weight: 600;
+}
+.weKeepExpandingChild {
+  position: absolute;
+  top: 69px;
+  left: 515px;
+  width: 264.01px;
+  height: 21px;
+}
+.component15Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 16px;
+  background-color: #138ed1;
+  border: 1px solid #138ed1;
+  box-sizing: border-box;
+}
+.div14,
+.labs {
+  position: absolute;
+}
+.div14 {
+  top: 12.66%;
+  left: 44.37%;
+  line-height: 24px;
+  font-weight: 600;
+  text-shadow: 0 4px 50px #75cfff;
+}
+.labs {
+  top: 50.63%;
+  left: 34.44%;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+}
+.component15 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 138px;
+  height: 72px;
+}
+.div15,
+.labs1 {
+  position: absolute;
+  display: none;
+}
+.div15 {
+  top: 12.66%;
+  left: 44.37%;
+  line-height: 24px;
+  font-weight: 600;
+  text-shadow: 0 4px 50px #75cfff;
+}
+.labs1 {
+  top: 50.63%;
+  left: 34.44%;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+}
+.component16 {
+  position: absolute;
+  top: 0;
+  left: 222px;
+  width: 151px;
+  height: 79px;
+}
+.div16 {
+  position: absolute;
+  top: 10px;
+  left: 270px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.collectionCenters {
+  position: absolute;
+  top: 38px;
+  left: 254px;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 87px;
+}
+.component17 {
+  position: absolute;
+  top: 0;
+  left: 457px;
+  width: 151px;
+  height: 79px;
+}
+.div18,
+.monthlyTests {
+  position: absolute;
+  top: 13px;
+  left: 497px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.monthlyTests {
+  top: 40px;
+  left: 472px;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 500;
+}
+.component18 {
+  position: absolute;
+  top: 0;
+  left: 694px;
+  width: 151px;
+  height: 79px;
+}
+.div20,
+.testMenu {
+  position: absolute;
+  top: 13px;
+  left: 739px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.testMenu {
+  top: 40px;
+  left: 716px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+}
+.component19 {
+  position: absolute;
+  top: 0;
+  left: 928px;
+  width: 151px;
+  height: 79px;
+}
+.citiesPresentIn,
+.div22 {
+  position: absolute;
+  top: 14px;
+  left: 989px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.citiesPresentIn {
+  top: 38px;
+  left: 937px;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 133px;
+}
+.component15Parent {
+  position: absolute;
+  top: 186px;
+  left: 0;
+  width: 1079px;
+  height: 79px;
+  font-size: 24px;
+  color: #fff;
+}
+.weKeepExpanding {
+  position: absolute;
+  top: 907px;
+  left: calc(50% - 539px);
+  width: 1079px;
+  height: 265px;
+  font-size: 48px;
+  color: #333;
+}
+.accreditationChild {
+  position: absolute;
+  top: 65px;
+  left: 373px;
+  width: 62.12px;
+  height: 66px;
+  object-fit: cover;
+}
+.freeSampleCollection {
+  position: absolute;
+  top: 90px;
+  left: 443.12px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.accreditationItem {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  width: 60px;
+  height: 66px;
+  object-fit: cover;
+}
+.nablAccreditedLabs1 {
+  position: absolute;
+  top: 90px;
+  left: 68px;
+  line-height: 24px;
+  font-weight: 500;
+  color: #333;
+}
+.accreditation {
+  position: absolute;
+  top: 693px;
+  left: 369px;
+  width: 701.12px;
+  height: 66px;
+  font-size: 24px;
+  color: #2f2f2f;
+  font-family: Inter;
+}
+.labPage1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3516px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: Montserrat;
+}
+
+}
+
+
+@media (max-width: 768px) {
+  /* Adjust the background elements */
+  .bgChild,
+  .bgItem,
+  .bgInner,
+  .rectangleIcon {
+    position: absolute;
+    width: 100%;
+    left: 0;
+  }
+
+  .bgChild {
+    height: 300px; /* Adjust the height as needed */
+    background: linear-gradient(90deg, #75cfff 22.19%, rgba(117, 207, 255, 0) 68.54%);
+    top: 0;
+    left: 0;
+  }
+
+  .bgItem {
+    top: 300px; /* Adjust the top position as needed */
+    height: 1000px; /* Adjust the height as needed */
+  }
+
+  .bgInner,
+  .rectangleIcon {
+    top: 500px; /* Adjust the top position as needed */
+    width: 100%;
+    height: auto; /* Adjust the height to maintain aspect ratio */
+  }
+
+  /* Adjust the text elements */
+  .notinline,
+  .notinline1,
+  .notinline2 {
+    position: relative;
+    left: 0;
+    line-height: normal;
+    font-weight: 600;
+  }
+
+  .notinline,
+  .notinline1,
+  .notinline2 {
+    top: auto;
+  }
+
+  /* Adjust the footer elements */
+  .footerChild {
+    left: 0;
+    width: 100%;
+    height: auto; /* Adjust the height as needed */
+  }
+
+  .nilLogoTransparent11,
+  .bookDoctorAppointments,
+  .appointments {
+    position: relative;
+    top: auto;
+    left: 0;
+  }
+
+  .footerInner,
+  .footerItem {
+    position: relative;
+    top: auto;
+    left: 0;
+    width: 100%;
+  }
+
+  .footerItem {
+    border-radius: 0; /* Remove border radius */
+  }
+
+  .footerFeedback {
+    position: relative;
+    top: auto;
+    left: 0;
+    width: 100%;
+    height: auto;
+    font-size: 16px; /* Adjust font size as needed */
+    line-height: normal;
+  }
+
+  .footerInner {
+    left: 0;
+    width: 100%;
+  }
+
+  .callIcon {
+    top: 0;
+    left: 0;
+    width: 39px;
+    height: 39px;
+  }
+
+  .lineDiv {
+    top: 0;
+    left: 0;
+    border-right: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1px;
+    height: 65px;
+  }
+
+  .div {
+    top: 0;
+    left: 0;
+    font-size: 16px; /* Adjust font size as needed */
+    line-height: normal;
+    font-weight: 600;
+  }
+
+  .services {
+    top: 0;
+    left: 0;
+    font-size: 24px; /* Adjust font size as needed */
+    line-height: normal;
+    font-weight: 600;
+  }
+
+  .labTests,
+  .services {
+    position: relative;
+    top: auto;
+    left: 0;
+  }
+
+  .aZMedicine,
+  .doctorSupport,
+  .generalInfo,
+  .legal {
+    position: relative;
+    top: auto;
+    left: 0;
+    line-height: normal;
+  }
+
+  .termsOfServices,
+  .privacyPolicy {
+    position: relative;
+    top: auto;
+    left: 0;
+    line-height: normal;
+  }
+
+  .consultation,
+  .howItWorks,
+  .supportnotinlinecom,
+  .talkToUs {
+    position: relative;
+    top: auto;
+    left: 0;
+    line-height: normal;
+  }
+
+  .allRightsReserved,
+  .appointmentnotinlinecom,
+  .div1,
+  .div2 {
+    position: relative;
+    top: auto;
+    left: 0;
+    line-height: normal;
+  }
+
+  .allRightsReserved,
+  .div2 {
+    top: auto;
+    line-height: normal;
+  }
+  .allRightsReserved {
+    top: auto;
+    left: 0;
+    font-weight: normal;
+  }
+
+  .component4Child,
+  .c,
+  .component4,
+  .footerChild1,
+  .footer,
+  .component1Child,
+  .component1Item,
+  .mediumShotWomanLookingThroIcon,
+  .component1Inner,
+  .rectangleDiv,
+  .component1,
+  .component7Child,
+  .component7Item,
+  .component7 {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    transform: none;
+    transform-origin: initial;
+    border: none;
+    background-color: transparent;
+    border-radius: 0;
+    box-sizing: content-box;
+    overflow: visible;
+    object-fit: initial;
+    font-weight: normal;
+    font-size: initial;
+    line-height: normal;
+  }
+  @media (max-width: 768px) {
+    .complementaryReportConsultat,
+    .component5Item,
+    .component5,
+    .component6Item,
+    .component6,
+    .labTests1,
+    .bestInClassContainer,
+    .heroTextImageChild,
+    .accurateTimelyReports1,
+    .accurateTimelyReports,
+    .heroTextImage,
+    .timelySampleCollection {
+      position: relative;
+      top: auto;
+      right: auto;
+      bottom: auto;
+      left: auto;
+      width: 100%;
+      height: auto;
+      max-width: none;
+      max-height: none;
+      transform: none;
+      transform-origin: initial;
+      border: none;
+      background-color: transparent;
+      border-radius: 0;
+      box-sizing: content-box;
+      overflow: visible;
+      object-fit: initial;
+      font-weight: normal;
+      font-size: initial;
+      line-height: normal;
+      font-family: initial;
+      color: initial;
+    }
+  
+    .bestInClassContainer {
+      left: 0;
+      font-size: 28px; /* Adjust font size as needed */
+      line-height: 40px; /* Adjust line height as needed */
+    }
+  
+    .heroTextImage {
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: auto;
+      font-size: 16px; /* Adjust font size as needed */
+      color: #333;
+    }
+  }
+
+  .fillInFormChild,
+  .fillInFormChild1,
+  .fillInFormInner,
+  .fillInFormItem,
+  .fullName,
+  .location,
+  .phoneNumber,
+  .FullNameInput,
+  .PhoneNumberInput,
+  .LocationInput,
+  .personIcon,
+  .callIcon1,
+  .component2Icon,
+  .distanceIcon,
+  .byContinuingYou,
+  .tc,
+  .byContinuingYouContainer,
+  .fillInFormChild2,
+  .fillInThe,
+  .proceed,
+  .fillInForm,
+  .offerLineChild,
+  .offerLineItem,
+  .getAFullContainer,
+  .currencyRupeeIcon,
+  .div3 {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    transform: none;
+    transform-origin: initial;
+    border: none;
+    background-color: transparent;
+    border-radius: 0;
+    box-sizing: content-box;
+    overflow: visible;
+    object-fit: initial;
+    font-weight: normal;
+    font-size: initial;
+    line-height: normal;
+    font-family: initial;
+    color: initial;
+  }
+  .fillInFormChild,
+  .offerLineItem {
+    border: none;
+  }
+  .fillInFormInner,
+  .fillInFormItem,
+  .fullName,
+  .location,
+  .phoneNumber {
+    background-color: transparent;
+  }
+  .fillInFormChild2 {
+    background-color: #138ed1;
+  }
+  .proceed {
+    background-color: #138ed1;
+  }
+  .fillInThe {
+    display: block;
+    width: 100%;
+  }
+
+  .offerLineInner,
+  .currencyRupeeIcon1,
+  .div4,
+  .off,
+  .offerLine,
+  .choose,
+  .weWantYou,
+  .whyChooseUsContainer,
+  .weWantYou,
+  .whyChooseUsChild,
+  .whyChooseUsChild1,
+  .whyChooseUsChild2,
+  .whyChooseUsInner,
+  .whyChooseUsItem,
+  .ellipseIcon,
+  .whyChooseUsChild3,
+  .whyChooseUsChild4,
+  .nablAccreditedLabs,
+  .valueExperience,
+  .timelyCollections,
+  .transparency,
+  .whyChooseUsChild5,
+  .enjoyHassleFree,
+  .experienceSeamlessCare,
+  .getAccurateAnd,
+  .weCollectSamples,
+  .whyChooseUs {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    transform: none;
+    transform-origin: initial;
+    border: none;
+    background-color: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    font-weight: normal;
+    font-size: initial;
+    line-height: normal;
+    font-family: initial;
+    color: initial;
+    text-align: center;
+    display: block;
+    padding: 0;
+  }
+  .weWantYou {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .weWantYou,
+  .whyChooseUsChild {
+    left: 0;
+  }
+  .whyChooseUsChild1,
+  .whyChooseUsChild2,
+  .whyChooseUsInner,
+  .whyChooseUsItem,
+  .whyChooseUsChild2,
+  .whyChooseUsChild3,
+  .whyChooseUsChild4,
+  .whyChooseUsChild5,
+  .enjoyHassleFree,
+  .experienceSeamlessCare,
+  .getAccurateAnd,
+  .weCollectSamples,
+  .whyChooseUs {
+    width: 100%;
+    left: 0;
+  }
+  .whyChooseUsChild1,
+  .whyChooseUsChild2,
+  .whyChooseUsInner {
+    height: auto;
+    box-shadow: none;
+    background-color: transparent;
+  }
+  .whyChooseUsChild2 {
+    top: auto;
+  }
+  .whyChooseUsChild4 {
+    top: auto;
+  }
+  .whyChooseUsChild5 {
+    top: auto;
+  }
+  .whyChooseUsChild5 {
+    width: 100%;
+  }
+  .nablAccreditedLabs,
+  .valueExperience,
+  .timelyCollections,
+  .transparency,
+  .enjoyHassleFree,
+  .experienceSeamlessCare,
+  .getAccurateAnd,
+  .weCollectSamples {
+    text-align: center;
+    width: 100%;
+    padding: 0;
+  }
+  .offerLine {
+    top: auto;
+    left: 0;
+    width: 100%;
+    font-size: 16px;
+    font-family: Inter;
+    height: auto;
+  }
+  .headerChild {
+    position: relative;
+    top: auto;
+    left: auto;
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    max-height: none;
+  }
+  .nilLogoTransparent111,
+  .screenshot20230725165513RIcon {
+    position: relative;
+    height: auto;
+    width: 100%;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    max-width: none;
+    overflow: visible;
+    max-height: none;
+    object-fit: initial;
+  }
+  .component10,
+  .healthConditions,
+  .home,
+  .labTests2,
+  .medicines,
+  .labTestsParent,
+  .component11Child,
+  .headerInner,
+  .headerItem {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    text-align: center;
+    display: block;
+    line-height: normal;
+    padding: 0;
+  }
+  .labTests2 {
+    font-size: 16px;
+    color: #138ed1;
+  }
+
+   .component11Child {
+    height: auto;
+    width: 100%;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    background-color: transparent;
+  }
+  .playStore {
+    height: auto;
+    width: 100%;
+    top: auto;
+    left: auto;
+    line-height: normal;
+    font-weight: normal;
+  }
+  .component11Item {
+    height: auto;
+    width: 100%;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    max-width: none;
+    overflow: visible;
+    max-height: none;
+    object-fit: initial;
+  }
+  .component11 {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    font-size: initial;
+    font-family: initial;
+  }
+  .forHospitals,
+  .forPatients {
+    position: relative;
+    top: auto;
+    left: auto;
+    line-height: normal;
+    width: auto;
+    height: auto;
+  }
+  .header {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    font-size: initial;
+    font-family: initial;
+  }
+  .topPackages {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    font-size: initial;
+    line-height: normal;
+    text-align: center;
+    color: #000;
+  }
+  .groupChild {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+  }
+  .exploreOurWide {
+    position: relative;
+    top: auto;
+    left: auto;
+    font-size: initial;
+    line-height: normal;
+    font-weight: normal;
+    color: #6e6e6e;
+    display: block;
+    width: 100%;
+  }
+  .groupChild1,
+  .groupInner,
+  .groupItem {
+    position: relative;
+    top: auto;
+    left: auto;
+    background-color: transparent;
+    box-shadow: none;
+    width: 100%;
+    height: auto;
+  }
+  .groupChild1 {
+    left: auto;
+  }
+  .basicFullBody,
+  .div5,
+  .numberOfTests,
+  .reviews,
+  .advanceFullBody,
+  .div6,
+  .numberOfTests1,
+  .reviews1,
+  .liverFunctionTest,
+  .div7,
+  .numberOfTests2,
+  .reviews2,
+  .ellipseDiv,
+  .arrowIcon,
+  .gradeIcon,
+  .gradeIcon1,
+  .gradeIcon2,
+  .groupChild2,
+  .bookNow,
+  .groupChild3,
+  .bookNow1,
+  .groupChild4,
+  .bookNow2,
+  .div8,
+  .div9,
+  .currencyRupeeIcon2,
+  .div9,
+  .mrp {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    max-height: none;
+  }
+  .basicFullBody,
+  .advanceFullBody,
+  .liverFunctionTest {
+    text-align: center;
+    font-size: initial;
+    width: 100%;
+  }
+  .numberOfTests,
+  .numberOfTests1,
+  .numberOfTests2 {
+    top: auto;
+    left: auto;
+  }
+  .div5,
+  .div6,
+  .div7,
+  .div8,
+  .div9 {
+    width: 100%;
+    text-align: center;
+  }
+  .reviews,
+  .reviews1,
+  .reviews2 {
+    left: auto;
+    font-weight: normal;
+    color: #6e6e6e;
+  }
+  .groupChild2,
+  .groupChild3,
+  .groupChild4 {
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+  }
+  .bookNow,
+  .bookNow1,
+  .bookNow2,
+  .div8,
+  .div9 {
+    line-height: normal;
+    font-weight: normal;
+  }
+  .div9 {
+    display: inline;
+    font-weight: normal;
+  }
+  .currencyRupeeIcon2,
+  .mrp {
+    top: auto;
+    left: auto;
+    width: initial;
+    height: initial;
+  }
+
+  .mrp {
+    left: auto;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #6e6e6e;
+  }
+  .groupChild5 {
+    position: relative;
+    top: auto;
+    left: auto;
+    background-color: transparent;
+    width: 100%;
+    height: 2px;
+  }
+  .currencyRupeeIcon3 {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: initial;
+    height: initial;
+  }
+  .div10,
+  .div11 {
+    position: relative;
+    top: auto;
+    line-height: normal;
+    font-weight: normal;
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .div10 {
+    left: auto;
+    color: #6e6e6e;
+  }
+  .div11 {
+    left: auto;
+  }
+  .currencyRupeeIcon4,
+  .currencyRupeeIcon5,
+  .groupChild6 {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: initial;
+    height: initial;
+  }
+  .currencyRupeeIcon5,
+  .groupChild6 {
+    left: auto;
+  }
+  .groupChild6 {
+    top: auto;
+    left: auto;
+    background-color: transparent;
+    width: 100%;
+    height: 2px;
+  }
+  .div12,
+  .div13,
+  .mrp1 {
+    position: relative;
+    top: auto;
+    line-height: normal;
+    font-weight: normal;
+  }
+  .mrp1 {
+    left: auto;
+    font-size: 18px;
+    color: #6e6e6e;
+  }
+  .div12,
+  .div13 {
+    display: block;
+    width: 100%;
+  }
+  .div12 {
+    left: auto;
+    color: #6e6e6e;
+    width: 100%;
+    height: auto;
+  }
+  .div13 {
+    left: auto;
+    width: 100%;
+    height: auto;
+  }
+  .currencyRupeeIcon6,
+  .groupChild7 {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: initial;
+    height: initial;
+  }
+  .groupChild7 {
+    top: auto;
+    left: auto;
+    background-color: transparent;
+    width: 100%;
+    height: 2px;
+  }
+  .currencyRupeeIcon7,
+  .mrp2 {
+    position: relative;
+    top: auto;
+    left: auto;
+  }
+  .currencyRupeeIcon7 {
+    left: auto;
+    width: initial;
+    height: initial;
+  }
+  .mrp2 {
+    left: auto;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #6e6e6e;
+  }
+  .topPackagesParent {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #2f2f2f;
+  }
+  .weKeepExpandingContainer {
+    position: relative;
+    top: auto;
+    left: auto;
+    line-height: normal;
+    font-weight: normal;
+  }
+  .weKeepExpandingChild {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+  }
+  .component15Child {
+    position: relative;
+    height: auto;
+    width: 100%;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    border-radius: initial;
+    background-color: initial;
+    border: none;
+    box-sizing: content-box;
+  }
+  .div14,
+  .labs,
+  .div15,
+  .labs1,
+  .div16,
+  .collectionCenters,
+  .div18,
+  .monthlyTests,
+  .div20,
+  .testMenu,
+  .div22,
+  .citiesPresentIn {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    line-height: normal;
+    font-weight: normal;
+  }
+  .div14,
+  .div15,
+  .div16,
+  .div18,
+  .div20,
+  .div22 {
+    display: block;
+  }
+  .labs,
+  .labs1 {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+  }
+  .labs,
+  .labs1 {
+    top: auto;
+    left: auto;
+  }
+  .component15,
+  .component16,
+  .component17,
+  .component18,
+  .component19 {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+  }
+
+  .citiesPresentIn {
+    top: 38px;
+    left: auto;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 500;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+  }
+  .component15Parent {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    font-size: 24px;
+    color: #fff;
+  }
+  .weKeepExpanding {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    font-size: 48px;
+    color: #333;
+  }
+  .accreditationChild,
+  .accreditationItem {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: initial;
+    height: initial;
+    object-fit: initial;
+  }
+  .freeSampleCollection,
+  .nablAccreditedLabs1 {
+    position: relative;
+    top: auto;
+    left: auto;
+    line-height: normal;
+    font-weight: normal;
+  }
+  .accreditation {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    height: auto;
+    font-size: 24px;
+    color: #2f2f2f;
+    font-family: Inter;
+  }
+  .labPage1 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    overflow: initial;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: Montserrat;
+  }
+}
+
